@@ -2,6 +2,8 @@
 
 Welcome to Milk's Studio where we bring top games on to Roblox
 
+# Games
+
 ### Members
 
 Right now we only have one member which is the owner. The owner is the programmer, UI/UX design and music composer.
